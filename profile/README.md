@@ -1,7 +1,7 @@
 # FabFilter Bundle – Professional Audio Plugins for Studio-Quality Sound
 
 <p align="center">
-  <img src="071207DB/001ec89baf064f06901c4c1ded0d264c/jpg/media/f5e431a4424f449586fdacdecd441a40/FABFILTER-UG.jpg" alt="FabFilter Pro-Q 3 Interface"/>
+  <img src="https://riffology.co/wp-content/uploads/2025/01/FabFilter-Software-Activation-Instructions-Featured-Image-100.jpg" alt="FabFilter Pro-Q 3 Interface"/>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ This comprehensive bundle includes iconic tools such as **FabFilter Pro-Q 3**, t
 With the FabFilter Bundle, audio professionals gain access to a complete toolkit that ensures pristine audio quality, unparalleled workflow efficiency, and creative freedom for any project, from subtle mixing adjustments to bold sound design.
 
 <p align="center">
-  <img src="https://www.pluginboutique.com/ckeditor_assets/pictures/30598/content_volcano-3-pluginboutique.jpg" alt="FabFilter Total Bundle Screenshot"/>
+  <img src="https://www.pluginboutique.com/ckeditor_assets/pictures/41401/original_ProQ4-MAIN_UI_screenshot.jpg" alt="FabFilter Total Bundle Screenshot"/>
 </p>
 
 ---
